@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FreeIntegration</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="token">71385d5c64fb49efa96c9dff382a2398</string>
+    <string name="secret">aeba7f583a464efbabd4a93cee5626e7</string>
+    <string name="projectnumber">661123981369</string>
+</resources>
