@@ -14,20 +14,20 @@ What Upsight includes:
 
 # Types of Integration
 
-[Upsight Docs](http://help.upsight.com/)
-
 The Upsight (free) SDK allows you to integrate marketing components (placements, push notifications) and limited analytics (custom events). The Enterprise SDK gives you full access to custom events, data mining, etc. 
 
 ## Upsight SDK
 
-* iOS demo [app]
-* Android demo [app]
-* iOS + Unity demo [app]
-* Android + Unity demo
+* iOS demo [app]()
+* Android demo [app]()
+* iOS + Unity demo [app]()
+* Android + Unity demo [app]()
 
 ## Upsight Enterprise SDK
 
-* iOS demo [app]
-* Android demo [app]
-* iOS + Unity demo [app]
-* Android + Unity demo [app]
+* iOS demo [app]()
+* Android demo [app]()
+* iOS + Unity demo [app]()
+* Android + Unity demo [app]()
+
+For reference see the [Upsight Docs](http://help.upsight.com/).
